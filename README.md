@@ -1,16 +1,5 @@
-# p2
+In my Quiz Flutter app, I applied essential skills such as configuring columns and creating custom-styled buttons for a responsive layout.
+I efficiently managed data by accessing list elements, utilizing the spread operator.
+I enhanced visual appeal with third-party packages, including Google Fonts, and ensured seamless data handling through functions, maps, and "for" loops. 
+Additionally, I optimized layout management and user experience by filtering lists and making content scrollable.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
